@@ -1,0 +1,15 @@
+# Local working source — never commit
+_source/
+_work/
+
+# Python artifacts from local tooling (pip installed into project dir)
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
