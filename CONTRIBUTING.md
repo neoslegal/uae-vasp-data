@@ -36,6 +36,9 @@ without a verifiable source cannot be merged.
 You may also submit a pull request directly. Please keep changes focused and
 include the supporting source(s) in the description.
 
+For factual corrections, please open a GitHub issue where appropriate, or contact NeosLegal
+through the website contact form: https://neoslegal.co/work-with-top-crypto-lawyers/
+
 ## Data standards
 
 - Use ISO 8601 dates (`YYYY-MM-DD`) for `license_date` and `last_checked`.

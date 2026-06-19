@@ -123,4 +123,5 @@ regulator sources or other reliable sources. See [`CONTRIBUTING.md`](CONTRIBUTIN
 
 ## Contact
 
-TODO: Add a public contact email once confirmed.
+For legal enquiries, corrections, or dataset feedback, please contact NeosLegal through the
+website contact form: https://neoslegal.co/work-with-top-crypto-lawyers/
