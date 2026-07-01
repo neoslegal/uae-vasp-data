@@ -5,6 +5,15 @@ All notable changes to this dataset are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Dates use ISO 8601 (`YYYY-MM-DD`).
 
+## [2026-07-01]
+
+### Changed
+- Updated the UAE VASP dataset from the latest source workbook. Total public records: 174.
+  `last_checked` updated to 2026-07-01. No WordPress/Elementor snippet change required.
+
+### Added
+- 1 FSRA record: Maerki Baumann &Co. Ltd. (ADGM Branch).
+
 ## [Unreleased]
 
 ### Added

@@ -1,5 +1,19 @@
 [
   {
+    "entity_name": "Maerki Baumann &Co. Ltd. (ADGM Branch)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Bank",
+    "licensed_activities": "Arranging Deals in Investments ; Arranging Custody",
+    "status": "Listed in public register",
+    "license_date": "2026-01-01",
+    "source_url": "https://www.adgm.com/public-registers/fsra",
+    "official_website": "https://www.maerki-baumann.ch/en",
+    "last_checked": "2026-07-01",
+    "notes": null
+  },
+  {
     "entity_name": "JINGDONG COINLINK TECHNOLOGY (MIDDLE EAST) LIMITED (JD Stablecoin)",
     "trade_name": null,
     "regulator": "FSRA",
@@ -10,7 +24,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://corporate.jd.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -24,7 +38,7 @@
     "license_date": "2026-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -38,7 +52,7 @@
     "license_date": "2026-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -52,7 +66,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://damanvirtual.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -66,7 +80,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.liquiditytech.com/en/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -80,7 +94,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://fce.global/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -94,7 +108,7 @@
     "license_date": "2026-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.coincorner.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -108,7 +122,7 @@
     "license_date": "2026-05-01",
     "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -122,7 +136,7 @@
     "license_date": "2024",
     "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://aecoin.com/index.php",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -136,7 +150,7 @@
     "license_date": "2026",
     "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://ddsc.ai/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -150,7 +164,7 @@
     "license_date": "2026",
     "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://ddsc.ai/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -164,7 +178,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -178,7 +192,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -192,7 +206,7 @@
     "license_date": "2026-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -206,7 +220,7 @@
     "license_date": "2022-02-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://aminagroup.com/corporates/trading/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -220,7 +234,7 @@
     "license_date": "2026-02-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -234,7 +248,7 @@
     "license_date": "2026-02-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -248,7 +262,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -262,7 +276,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -276,7 +290,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -290,7 +304,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -304,7 +318,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -318,7 +332,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -332,7 +346,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -346,7 +360,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.atremo.digital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -360,7 +374,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.bankfrick.li/en/contact",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -374,7 +388,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.beamventures.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -388,7 +402,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -402,7 +416,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -416,7 +430,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -430,7 +444,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -444,7 +458,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -458,7 +472,7 @@
     "license_date": "2025-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -472,7 +486,7 @@
     "license_date": "2024-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitoasis.net/en/home",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -486,7 +500,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -500,7 +514,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -514,7 +528,7 @@
     "license_date": "2025-06-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -528,7 +542,7 @@
     "license_date": "2025-06-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -542,7 +556,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://www.bybit.com/en/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -556,7 +570,7 @@
     "license_date": "2025-10-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ceffu.com/en-AE/uae/custody-fze",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -570,7 +584,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -584,7 +598,7 @@
     "license_date": "2023-09-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -598,7 +612,7 @@
     "license_date": "2025-11-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -612,7 +626,7 @@
     "license_date": "2025-11-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -626,7 +640,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.coinmena.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -640,7 +654,7 @@
     "license_date": "2022-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -654,7 +668,7 @@
     "license_date": "2022-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -668,7 +682,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -682,7 +696,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -696,7 +710,7 @@
     "license_date": "2024-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.deribit.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -710,7 +724,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -724,7 +738,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -738,7 +752,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -752,7 +766,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -766,7 +780,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -780,7 +794,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -794,7 +808,7 @@
     "license_date": "2023-07-01",
     "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -808,7 +822,7 @@
     "license_date": "2023-07-01",
     "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -822,7 +836,7 @@
     "license_date": "2023-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -836,7 +850,7 @@
     "license_date": "2023-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -850,7 +864,7 @@
     "license_date": "2023-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -864,7 +878,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.fasset.com/fasset-fze-documents",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -878,7 +892,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -892,7 +906,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -906,7 +920,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -920,7 +934,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -934,7 +948,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -948,7 +962,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -962,7 +976,7 @@
     "license_date": "2022-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -976,7 +990,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.g3p.io/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -990,7 +1004,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://gatetech.biz/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1004,7 +1018,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://prime.gc.exchange/gcex-mena",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1018,7 +1032,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1032,7 +1046,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1046,7 +1060,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1060,7 +1074,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1074,7 +1088,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1088,7 +1102,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://hextrust.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1102,7 +1116,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://hiddenroad.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1116,7 +1130,7 @@
     "license_date": "2024-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1130,7 +1144,7 @@
     "license_date": "2024-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1144,7 +1158,7 @@
     "license_date": "2015-06-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.ig.com/ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1158,7 +1172,7 @@
     "license_date": "2015-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1172,7 +1186,7 @@
     "license_date": "2015-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1186,7 +1200,7 @@
     "license_date": "2015-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1200,7 +1214,7 @@
     "license_date": "2015-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1214,7 +1228,7 @@
     "license_date": "2022-11-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.investsky.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1228,7 +1242,7 @@
     "license_date": "2004-09-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1242,7 +1256,7 @@
     "license_date": "2004-09-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1256,7 +1270,7 @@
     "license_date": "2024-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1270,7 +1284,7 @@
     "license_date": "2020-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1284,7 +1298,7 @@
     "license_date": "2024-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1298,7 +1312,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1312,7 +1326,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1326,7 +1340,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1340,7 +1354,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1354,7 +1368,7 @@
     "license_date": "2024-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1368,7 +1382,7 @@
     "license_date": "2023-08-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://komainu.com/komainu-mea-fze/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1382,7 +1396,7 @@
     "license_date": "2024-06-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1396,7 +1410,7 @@
     "license_date": "2024-06-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1410,7 +1424,7 @@
     "license_date": "2023-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1424,7 +1438,7 @@
     "license_date": "2023-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1438,7 +1452,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.lct.tech/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1452,7 +1466,7 @@
     "license_date": "2023-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.m2.com/en_AE/adgm",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1466,7 +1480,7 @@
     "license_date": "2025-02-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1480,7 +1494,7 @@
     "license_date": "2025-02-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1494,7 +1508,7 @@
     "license_date": "2025-02-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1508,7 +1522,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1522,7 +1536,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1536,7 +1550,7 @@
     "license_date": "2023-05-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1550,7 +1564,7 @@
     "license_date": "2023-05-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1564,7 +1578,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.midchains.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1578,7 +1592,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.mkx.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1592,7 +1606,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://fuze.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1606,7 +1620,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1620,7 +1634,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1634,7 +1648,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1648,7 +1662,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1662,7 +1676,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1676,7 +1690,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.nineblockscapital.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1690,7 +1704,7 @@
     "license_date": "2026-01-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://novadigital.xyz/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1704,7 +1718,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1718,7 +1732,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1732,7 +1746,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1746,7 +1760,7 @@
     "license_date": "2024-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1760,7 +1774,7 @@
     "license_date": "2024-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1774,7 +1788,7 @@
     "license_date": "2024-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1788,7 +1802,7 @@
     "license_date": "2024-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1802,7 +1816,7 @@
     "license_date": "2020-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1816,7 +1830,7 @@
     "license_date": "2020-07-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1830,7 +1844,7 @@
     "license_date": "2025-04-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1844,7 +1858,7 @@
     "license_date": "2024-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1858,7 +1872,7 @@
     "license_date": "2024-10-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1872,7 +1886,7 @@
     "license_date": "2020-03-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://pepperstone.com/en-ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1886,7 +1900,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1900,7 +1914,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1914,7 +1928,7 @@
     "license_date": "2025-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1928,7 +1942,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mint.prypco.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1942,7 +1956,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.qcpgroup.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1956,7 +1970,7 @@
     "license_date": "2023-08-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1970,7 +1984,7 @@
     "license_date": "2023-08-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1984,7 +1998,7 @@
     "license_date": "2023-08-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -1998,7 +2012,7 @@
     "license_date": "2022-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.rain.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2012,7 +2026,7 @@
     "license_date": "2022-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.rain.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2026,7 +2040,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://ripple.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2040,7 +2054,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://ripple.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2054,7 +2068,7 @@
     "license_date": "2026-03-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.riv-technologies.com/fze/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2068,7 +2082,7 @@
     "license_date": "2023-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2082,7 +2096,7 @@
     "license_date": "2023-09-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2096,7 +2110,7 @@
     "license_date": "2025-10-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": null,
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2110,7 +2124,7 @@
     "license_date": "2004-09-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.sc.com/ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2124,7 +2138,7 @@
     "license_date": "2023-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.sygnum.com/uae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2138,7 +2152,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2152,7 +2166,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2166,7 +2180,7 @@
     "license_date": "2025-03-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2180,7 +2194,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2194,7 +2208,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2208,7 +2222,7 @@
     "license_date": "2023-10-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.backpack.exchange/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2222,7 +2236,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2236,7 +2250,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2250,7 +2264,7 @@
     "license_date": "2024-06-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2264,7 +2278,7 @@
     "license_date": "2023-11-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2278,7 +2292,7 @@
     "license_date": "2025-09-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.universal.ae/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2292,7 +2306,7 @@
     "license_date": "2024-07-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ae.roma.global/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2306,7 +2320,7 @@
     "license_date": "2013-12-01",
     "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.vycapital.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2320,7 +2334,7 @@
     "license_date": "2023-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": null,
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2334,7 +2348,7 @@
     "license_date": "2026-03-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.relm.co/permissions",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2348,7 +2362,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2362,7 +2376,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2376,7 +2390,7 @@
     "license_date": "2025-05-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2390,7 +2404,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2404,7 +2418,7 @@
     "license_date": "2025",
     "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   },
   {
@@ -2418,7 +2432,7 @@
     "license_date": "2024-12-01",
     "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://zodiamarkets.com/",
-    "last_checked": "2026-06-04",
+    "last_checked": "2026-07-01",
     "notes": null
   }
 ]
