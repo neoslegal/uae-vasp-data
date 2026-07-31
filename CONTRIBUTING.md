@@ -20,8 +20,10 @@ source or another reliable source.** Acceptable sources include:
 - The entity's own official communications, where they corroborate a
   regulator record.
 
-Please provide a direct `source_url` for any factual claim. Contributions
-without a verifiable source cannot be merged.
+Please provide a direct source link for any factual claim. Contributions
+without a verifiable source cannot be merged. Note that the dataset publishes a
+single approved URL per record in `official_website`; there is no separate
+`source_url` field.
 
 ## Correction process
 

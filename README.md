@@ -24,10 +24,9 @@ including:
 
 ## Data provenance & methodology
 
-The initial dataset was imported from a working spreadsheet compiled from public regulator
-sources and last updated on 2026-06-04. Where individual entity-level regulator URLs are not yet
-available, `source_url` points to the relevant official regulator register or licensing page.
-Users should verify current status with the relevant regulator.
+The dataset is compiled from a working spreadsheet based on public regulator sources. Each record
+carries a **single approved URL** in `official_website`, taken verbatim from that source. Users
+should verify current status with the relevant regulator.
 
 Specific notes on this initial release:
 
@@ -36,15 +35,13 @@ Specific notes on this initial release:
   2026-06-04. It is **not** a per-entity status copied from a regulator and does **not** assert
   that an entity is currently active, withdrawn, or otherwise. No status such as "Active",
   "Inactive", "Revoked", or "Withdrawn" has been inferred.
-- **`source_url`** is **regulator-level** for this initial release, because per-entity regulator
-  register URLs were not present in the source workbook. It links to the regulator's official
-  register or licensing page. Future enrichment will replace these with per-entity official
-  regulator URLs where available.
 - **`license_date`** uses `YYYY-MM-DD` where an exact date is available, and a year-only `YYYY`
   where only the year is known. Year-only values are valid and intentional; month and day are never
   invented.
-- **`official_website`** is a verified official URL, or blank where no official URL could be
-  confidently verified. Non-URL labels are never published.
+- **`official_website`** is the record's **single approved URL**, taken verbatim from the source
+  workbook. It may point to the entity's own website, an official announcement, a regulator page, or
+  another approved source. No URL is inferred, searched for, or generated. A separate `source_url`
+  field is no longer maintained.
 - **`notes`** contains only substantive public context. It is left blank rather than used to record
   working annotations or data-formatting explanations.
 - **`last_checked`** (`2026-06-04`) is **workbook-level**, derived from the source workbook's
@@ -99,8 +96,7 @@ See [`data/README.md`](data/README.md) for a detailed description of each file.
 | `licensed_activities` | Virtual asset activities the entity is permitted to perform. |
 | `status` | Current standing of the record (see provenance note). |
 | `license_date` | Date the licence was issued or became effective. Preferred format `YYYY-MM-DD`; a year-only value `YYYY` is used where only the year is known. Month/day are never invented. |
-| `source_url` | URL of the official regulator source for the record. |
-| `official_website` | The entity's official website (a valid URL), or blank where no official URL has been confidently verified. |
+| `official_website` | The record's single approved URL, taken verbatim from the source. May point to the entity's website, an official announcement, a regulator page, or another approved source. |
 | `last_checked` | Date the record was last verified against the source (ISO 8601, `YYYY-MM-DD`). |
 | `notes` | Substantive public context where available; otherwise blank. |
 

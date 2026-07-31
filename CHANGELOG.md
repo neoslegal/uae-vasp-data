@@ -5,6 +5,31 @@ All notable changes to this dataset are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Dates use ISO 8601 (`YYYY-MM-DD`).
 
+## [2026-07-31]
+
+### Changed
+- **Consolidated URL handling to a single approved URL per record.** The source workbook is now the
+  sole authority for entity URLs: each record publishes exactly one URL in `official_website`, taken
+  verbatim from the workbook's approved value or hyperlink target. It may point to the entity's own
+  website, an official announcement, a regulator page, or another approved source.
+- Updated the UAE VASP dataset from the latest source workbook (source last updated 2026-07-30).
+  Total public records: 180 (up from 174). `last_checked` updated to 2026-07-31.
+- 13 records now carry the workbook's hyperlink target where the cell displayed a label or a second
+  URL; 2 records that were previously blank now carry an approved URL.
+- Maerki Baumann &Co. Ltd. (ADGM Branch): `license_date` corrected in source, 2026-01-01 →
+  2026-01-15.
+
+### Added
+- 6 new records across 5 new entities: Revolut Stored Value Services L.L.C (CBUAE),
+  BTCS (MIDDLE EAST) LTD (Bitcoin Suisse) (FSRA), Flipster FZE (VARA), Tribe Tokenisation FZE
+  (VARA), and YHEGO Virtual Assets Exchange Service L.L.C (VARA, 2 records).
+
+### Removed
+- **`source_url` field removed from the public schema**, CSV files, and JSON output. Regulator and
+  rulebook URLs are no longer preserved, inferred, or generated. The public schema is now 11
+  columns. Documentation and the JSON Schema were updated accordingly. The Elementor tracker snippet
+  does not read this field, so no website code change is required.
+
 ## [2026-07-01]
 
 ### Changed

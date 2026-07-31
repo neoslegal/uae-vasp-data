@@ -10,13 +10,11 @@ dedicated CSV file, and a combined JSON file aggregates all records.
 > - **`status`** is a derived dataset status (`"Listed in public register"`) meaning the entity
 >   appeared in the source workbook's licensed-entities list as of 2026-06-04. It is not a
 >   per-entity regulator status and asserts nothing about current activity. No status was inferred.
-> - **`source_url`** is **regulator-level** (the regulator's official register/licensing page),
->   because per-entity regulator URLs were not present in the source. Future enrichment will
->   replace these with per-entity official regulator URLs where available.
 > - **`license_date`** is `YYYY-MM-DD` where an exact date is available, or a year-only `YYYY` where
   only the year is known (valid; month/day never invented).
-- **`official_website`** is a verified official URL, or blank where none could be confidently
-  verified. Non-URL labels from the source are not published.
+- **`official_website`** is the record's **single approved URL**, taken verbatim from the source
+  workbook. It may point to the entity's own website, an official announcement, a regulator page, or
+  another approved source. No URL is inferred, searched for, or generated.
 - **`notes`** holds only substantive public context, otherwise blank (no working annotations, no
   formatting explanations).
 > - **`last_checked`** (`2026-06-04`) is **workbook-level**, not a per-row verification date,
@@ -50,8 +48,7 @@ All CSV files share the same column structure, in this order:
 | `licensed_activities` | No | Virtual asset activities the entity is permitted to perform. |
 | `status` | Yes | Current standing of the record (see provenance note above). |
 | `license_date` | No | Date the licence was issued or became effective (`YYYY-MM-DD`, or `YYYY` if only the year is known). |
-| `source_url` | Yes | URL of the official regulator source for the record. |
-| `official_website` | No | The entity's official website (valid URL) or blank. |
+| `official_website` | No | The record's single approved URL, taken verbatim from the source. |
 | `last_checked` | Yes | Date the record was last verified against the source (`YYYY-MM-DD`). |
 | `notes` | No | Substantive public context, otherwise blank. |
 

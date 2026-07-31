@@ -10,7 +10,6 @@
     "regulator",
     "jurisdiction",
     "status",
-    "source_url",
     "last_checked"
   ],
   "properties": {
@@ -52,14 +51,9 @@
       "description": "Date the licence was issued or became effective. Preferred format is ISO 8601 YYYY-MM-DD where an exact date is available; a year-only value YYYY is valid where only the year is known. Month and day are never invented.",
       "pattern": "^[0-9]{4}(-[0-9]{2}-[0-9]{2})?$"
     },
-    "source_url": {
-      "type": "string",
-      "description": "URL of the official regulator source for the record.",
-      "format": "uri"
-    },
     "official_website": {
       "type": ["string", "null"],
-      "description": "The entity's official website, if known.",
+      "description": "The record's single approved URL, taken verbatim from the source workbook. It may point to the entity's own website, an official announcement, a regulator page, or another approved source. No URL is inferred or generated.",
       "format": "uri"
     },
     "last_checked": {

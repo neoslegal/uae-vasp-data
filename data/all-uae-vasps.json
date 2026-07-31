@@ -1,5 +1,83 @@
 [
   {
+    "entity_name": "Revolut Stored Value Services L.L.C",
+    "trade_name": null,
+    "regulator": "CBUAE",
+    "jurisdiction": "United Arab Emirates (federal)",
+    "license_type": "Money Services",
+    "licensed_activities": "Stored Value Facility ; Retail Payment Services",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://www.revolut.com/en-FI/news/revolut_obtains_approval_for_stored_value_facilities_and_retail_payment_services_licences_from_the_central_bank_of_the_uae/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Flipster FZE",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Exchange",
+    "licensed_activities": "Exchange Services",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://www.flipster.io/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
+    "entity_name": "BTCS (MIDDLE EAST) LTD (Bitcoin Suisse)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Bank",
+    "licensed_activities": "Dealing in Investments as Agent ; Dealing in Investments as Principal (Matched) ; Providing Custody",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://bitcoinsuisse.com/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Tribe Tokenisation FZE",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://tribeinvest.co/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
+    "entity_name": "YHEGO Virtual Assets Exchange Service L.L.C (Yhego Technology Investment L.L.C)",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://yhego.ae/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
+    "entity_name": "YHEGO Virtual Assets Exchange Service L.L.C (Yhego Technology Investment L.L.C)",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Exchange",
+    "licensed_activities": "Exchange Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://yhego.ae/",
+    "last_checked": "2026-07-31",
+    "notes": null
+  },
+  {
     "entity_name": "Maerki Baumann &Co. Ltd. (ADGM Branch)",
     "trade_name": null,
     "regulator": "FSRA",
@@ -7,10 +85,9 @@
     "license_type": "Bank",
     "licensed_activities": "Arranging Deals in Investments ; Arranging Custody",
     "status": "Listed in public register",
-    "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
-    "official_website": "https://www.maerki-baumann.ch/en",
-    "last_checked": "2026-07-01",
+    "license_date": "2026-01-15",
+    "official_website": "https://www.archip.ch/en/archip-corporate",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -22,9 +99,8 @@
     "licensed_activities": "Issuing a Fiat - Referenced Token",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://corporate.jd.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -36,9 +112,8 @@
     "licensed_activities": "Operating a Multilateral Trading Facility",
     "status": "Listed in public register",
     "license_date": "2026-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -50,9 +125,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2026-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -64,9 +138,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://damanvirtual.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -78,9 +151,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.liquiditytech.com/en/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -92,9 +164,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://fce.global/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -106,9 +177,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.coincorner.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -120,9 +190,8 @@
     "licensed_activities": "Stored Value Facility",
     "status": "Listed in public register",
     "license_date": "2026-05-01",
-    "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -134,9 +203,8 @@
     "licensed_activities": "Dirham Payment Token Issuance",
     "status": "Listed in public register",
     "license_date": "2024",
-    "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://aecoin.com/index.php",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -148,9 +216,8 @@
     "licensed_activities": "Stored Value Facility ; Payment Token Conversion ; Payment Token Custody and Transfer",
     "status": "Listed in public register",
     "license_date": "2026",
-    "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
-    "official_website": "https://ddsc.ai/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.ihcuae.com/media-centre/press-releases/ihc-sirius-and-fab-receive-central-bank-approval-to-launch-uae-dirham-backed-stablecoin-ddsc-on-adi-chain?trk=public_post_comment-text",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -162,9 +229,8 @@
     "licensed_activities": "Dirham Payment Token Issuance",
     "status": "Listed in public register",
     "license_date": "2026",
-    "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
-    "official_website": "https://ddsc.ai/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.ihcuae.com/media-centre/press-releases/ihc-sirius-and-fab-receive-central-bank-approval-to-launch-uae-dirham-backed-stablecoin-ddsc-on-adi-chain?trk=public_post_comment-text",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -176,9 +242,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -190,9 +255,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -204,9 +268,8 @@
     "licensed_activities": "Lending and Borrowing Services",
     "status": "Listed in public register",
     "license_date": "2026-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -218,9 +281,8 @@
     "licensed_activities": "Advising on Investments or Credit ; Arranging Deals in Investments ; Arranging Custody ; Arranging Credit",
     "status": "Listed in public register",
     "license_date": "2022-02-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://aminagroup.com/corporates/trading/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -232,9 +294,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2026-02-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -246,9 +307,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-02-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -260,9 +320,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -274,9 +333,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -288,9 +346,8 @@
     "licensed_activities": "Lending and Borrowing Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -302,9 +359,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -316,9 +372,8 @@
     "licensed_activities": "Managing a Collective Investment Fund ; Managing Assets",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -330,9 +385,8 @@
     "licensed_activities": "Arranging Deals in Investments ; Dealing in Investments as Principal (Matched)",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -344,9 +398,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -358,9 +411,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.atremo.digital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -372,9 +424,8 @@
     "licensed_activities": "Arranging Deals in Investments; Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://www.bankfrick.li/en/contact",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.bankfrick.li/en/bank-frick-receives-licence-and-opens-branch-dubai",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -386,9 +437,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.beamventures.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -400,9 +450,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -414,9 +463,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -428,9 +476,8 @@
     "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -442,9 +489,8 @@
     "licensed_activities": "Lending and Borrowing Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -456,9 +502,8 @@
     "licensed_activities": "Custody Services [including custodial staking]",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -470,9 +515,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -484,9 +528,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitoasis.net/en/home",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -498,9 +541,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -512,9 +554,8 @@
     "licensed_activities": "Custody Services [including custodial staking]",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -526,9 +567,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched)",
     "status": "Listed in public register",
     "license_date": "2025-06-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -540,9 +580,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2025-06-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -554,9 +593,8 @@
     "licensed_activities": "MTF dedicated to Virtual Assets (VA MTF)",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://www.bybit.com/en/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -568,9 +606,8 @@
     "licensed_activities": "Custody Services",
     "status": "Listed in public register",
     "license_date": "2025-10-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ceffu.com/en-AE/uae/custody-fze",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -582,9 +619,8 @@
     "licensed_activities": "Dealing in Investments as Agent ; Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -596,9 +632,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2023-09-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -610,9 +645,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-11-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -624,9 +658,8 @@
     "licensed_activities": "Providing Money Services",
     "status": "Listed in public register",
     "license_date": "2025-11-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -638,9 +671,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.coinmena.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -652,9 +684,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched)",
     "status": "Listed in public register",
     "license_date": "2022-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -666,9 +697,8 @@
     "licensed_activities": "Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2022-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -680,9 +710,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -694,9 +723,8 @@
     "licensed_activities": "Category 1 VA Issuance",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -708,9 +736,8 @@
     "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
     "status": "Listed in public register",
     "license_date": "2024-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.deribit.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -722,9 +749,8 @@
     "licensed_activities": "Advisory Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -736,9 +762,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -750,9 +775,8 @@
     "licensed_activities": "Advising on Financial Products",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -764,9 +788,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -778,9 +801,8 @@
     "licensed_activities": "Arranging Deals in Investments ; Dealing in Investments as Agent ; Dealing in Investments as Principal",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -792,9 +814,8 @@
     "licensed_activities": "Arranging Custody ; Providing Custody",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -806,9 +827,8 @@
     "licensed_activities": "Dealing in Virtual Assets as an Agent or Matching Principal",
     "status": "Listed in public register",
     "license_date": "2023-07-01",
-    "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -820,9 +840,8 @@
     "licensed_activities": "MTF dedicated to Virtual Assets (VA MTF)",
     "status": "Listed in public register",
     "license_date": "2023-07-01",
-    "source_url": "https://www.sca.gov.ae/en/open-data/licensed-companies.aspx",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -834,9 +853,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2023-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -848,9 +866,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2023-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -862,9 +879,8 @@
     "licensed_activities": "Arranging Custody ; Providing Custody",
     "status": "Listed in public register",
     "license_date": "2023-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -876,9 +892,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.fasset.com/fasset-fze-documents",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -890,9 +905,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -904,9 +918,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -918,9 +931,8 @@
     "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -932,9 +944,8 @@
     "licensed_activities": "Lending and Borrowing Services",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -946,9 +957,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -960,9 +970,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -974,9 +983,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2022-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -988,9 +996,8 @@
     "licensed_activities": "Advisory Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.g3p.io/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1002,9 +1009,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://gatetech.biz/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1016,9 +1022,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://prime.gc.exchange/gcex-mena",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1030,9 +1035,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1044,9 +1048,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1058,9 +1061,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1072,9 +1074,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1086,9 +1087,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1100,9 +1100,8 @@
     "licensed_activities": "Custody Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://hextrust.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1114,9 +1113,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://hiddenroad.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1128,9 +1126,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1142,9 +1139,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1156,9 +1152,8 @@
     "licensed_activities": "Arranging Deals in Investments ; Dealing in Investments as Principal",
     "status": "Listed in public register",
     "license_date": "2015-06-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.ig.com/ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1170,9 +1165,8 @@
     "licensed_activities": "Advising on Financial Products",
     "status": "Listed in public register",
     "license_date": "2015-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1184,9 +1178,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2015-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1198,9 +1191,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2015-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1212,9 +1204,8 @@
     "licensed_activities": "Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2015-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1226,9 +1217,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2022-11-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.investsky.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1240,9 +1230,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2004-09-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1254,9 +1243,8 @@
     "licensed_activities": "Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2004-09-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1268,9 +1256,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2024-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1282,9 +1269,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Dealing in Investments as Agent",
     "status": "Listed in public register",
     "license_date": "2020-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1296,9 +1282,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2024-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1310,9 +1295,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Dealing in Investments as Agent",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1324,9 +1308,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1338,9 +1321,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1352,9 +1334,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1366,9 +1347,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2024-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1380,9 +1360,8 @@
     "licensed_activities": "VA Custody Services [including custodial staking and collateral wallet services]",
     "status": "Listed in public register",
     "license_date": "2023-08-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://komainu.com/komainu-mea-fze/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1394,9 +1373,8 @@
     "licensed_activities": "Managing Assets ; Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2024-06-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1408,9 +1386,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2024-06-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1422,9 +1399,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2023-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1436,9 +1412,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1450,9 +1425,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.lct.tech/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1464,9 +1438,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2023-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.m2.com/en_AE/adgm",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1478,9 +1451,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2025-02-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1492,9 +1464,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-02-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1506,9 +1477,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2025-02-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1520,9 +1490,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1534,9 +1503,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1548,9 +1516,8 @@
     "licensed_activities": "Advising on Financial Products",
     "status": "Listed in public register",
     "license_date": "2023-05-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1562,9 +1529,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2023-05-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1576,9 +1542,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.midchains.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1590,9 +1555,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.mkx.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1604,9 +1568,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://fuze.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1618,9 +1581,8 @@
     "licensed_activities": "Recognised Investment Exchange",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1632,9 +1594,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1646,9 +1607,8 @@
     "licensed_activities": "Arranging Deals in Investments ; Dealing in Investments as Agent ; Dealing in Investments as Principal (not matched)",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1660,9 +1620,8 @@
     "licensed_activities": "Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1674,9 +1633,8 @@
     "licensed_activities": "Providing Money Services",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1688,9 +1646,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.nineblockscapital.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1702,9 +1659,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2026-01-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://novadigital.xyz/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1716,9 +1672,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1730,9 +1685,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1744,9 +1698,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1758,9 +1711,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2024-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1772,9 +1724,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1786,9 +1737,8 @@
     "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
     "status": "Listed in public register",
     "license_date": "2024-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1800,9 +1750,8 @@
     "licensed_activities": "Lending and Borrowing Services",
     "status": "Listed in public register",
     "license_date": "2024-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1814,9 +1763,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2020-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1828,9 +1776,8 @@
     "licensed_activities": "Operating a Multilateral Trading Facility",
     "status": "Listed in public register",
     "license_date": "2020-07-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1842,9 +1789,8 @@
     "licensed_activities": "Issuing a Fiat - Referenced Token",
     "status": "Listed in public register",
     "license_date": "2025-04-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1856,9 +1802,8 @@
     "licensed_activities": "Dealing in Investments as Agent",
     "status": "Listed in public register",
     "license_date": "2024-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1870,9 +1815,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2024-10-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1884,9 +1828,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2020-03-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://pepperstone.com/en-ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1898,9 +1841,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1912,9 +1854,8 @@
     "licensed_activities": "Managing a Collective Investment Fund ; Managing Assets",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1926,9 +1867,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1940,9 +1880,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://mint.prypco.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1954,9 +1893,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched)",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.qcpgroup.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1968,9 +1906,8 @@
     "licensed_activities": "Advising on Financial Products",
     "status": "Listed in public register",
     "license_date": "2023-08-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.qube-rt.com/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1982,9 +1919,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2023-08-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.qube-rt.com/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -1996,9 +1932,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2023-08-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://www.qube-rt.com",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.qube-rt.com/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2010,9 +1945,8 @@
     "licensed_activities": "Dealing in Investments as Agent",
     "status": "Listed in public register",
     "license_date": "2022-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
-    "official_website": "https://www.rain.com/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.rain.com/en-ae/landing/rain-business",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2024,9 +1958,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2022-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
-    "official_website": "https://www.rain.com/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.rain.com/en-ae/landing/rain-business",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2038,9 +1971,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://ripple.com/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://ripple.com/legal/compliance/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2052,9 +1984,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
-    "official_website": "https://ripple.com/",
-    "last_checked": "2026-07-01",
+    "official_website": "https://ripple.com/legal/compliance/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2066,9 +1997,8 @@
     "licensed_activities": "Advisory Services",
     "status": "Listed in public register",
     "license_date": "2026-03-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.riv-technologies.com/fze/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2080,9 +2010,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2023-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2094,9 +2023,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2023-09-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2108,9 +2036,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-10-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
-    "official_website": null,
-    "last_checked": "2026-07-01",
+    "official_website": "http://selinicapital.ae/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2122,9 +2049,8 @@
     "licensed_activities": "Arranging Custody; Providing Custody",
     "status": "Listed in public register",
     "license_date": "2004-09-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.sc.com/ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2136,9 +2062,8 @@
     "licensed_activities": "Advising on Investments or Credit ; Arranging Deals in Investments ; Arranging Credit ; Arranging Custody",
     "status": "Listed in public register",
     "license_date": "2023-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.sygnum.com/uae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2150,9 +2075,8 @@
     "licensed_activities": "Advising on Investments or Credit",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2164,9 +2088,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2178,9 +2101,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-03-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2192,9 +2114,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2206,9 +2127,8 @@
     "licensed_activities": "Category 1 VA Issuance",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2220,9 +2140,8 @@
     "licensed_activities": "Exchange Services",
     "status": "Listed in public register",
     "license_date": "2023-10-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.backpack.exchange/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2234,9 +2153,8 @@
     "licensed_activities": "Advising on Investment or Credit",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2248,9 +2166,8 @@
     "licensed_activities": "Managing a Collective Investment Fund",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2262,9 +2179,8 @@
     "licensed_activities": "Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2024-06-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2276,9 +2192,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2023-11-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2290,9 +2205,8 @@
     "licensed_activities": "Issuing a Fiat - Referenced Token",
     "status": "Listed in public register",
     "license_date": "2025-09-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.universal.ae/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2304,9 +2218,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2024-07-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://ae.roma.global/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2318,9 +2231,8 @@
     "licensed_activities": "Managing Assets",
     "status": "Listed in public register",
     "license_date": "2013-12-01",
-    "source_url": "https://www.dfsa.ae/public-register/firms",
     "official_website": "https://www.vycapital.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2332,9 +2244,8 @@
     "licensed_activities": "Management and Investment Services",
     "status": "Listed in public register",
     "license_date": "2023-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
-    "official_website": null,
-    "last_checked": "2026-07-01",
+    "official_website": "https://www.linkedin.com/company/foundation-aya/",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2346,9 +2257,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2026-03-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.relm.co/permissions",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2360,9 +2270,8 @@
     "licensed_activities": "Advising on Investment or Credit",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2374,9 +2283,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched) ; Arranging Deals in Investments",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2388,9 +2296,8 @@
     "licensed_activities": "Providing Custody",
     "status": "Listed in public register",
     "license_date": "2025-05-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2402,9 +2309,8 @@
     "licensed_activities": "Custody Services",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.vara.ae/en/licenses-and-register/public-register/",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2416,9 +2322,8 @@
     "licensed_activities": "Dirham Payment Token Issuance",
     "status": "Listed in public register",
     "license_date": "2025",
-    "source_url": "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   },
   {
@@ -2430,9 +2335,8 @@
     "licensed_activities": "Dealing in Investments as Principal (Matched)",
     "status": "Listed in public register",
     "license_date": "2024-12-01",
-    "source_url": "https://www.adgm.com/public-registers/fsra",
     "official_website": "https://zodiamarkets.com/",
-    "last_checked": "2026-07-01",
+    "last_checked": "2026-07-31",
     "notes": null
   }
 ]
