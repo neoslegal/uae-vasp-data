@@ -18,6 +18,7 @@ Dates use ISO 8601 (`YYYY-MM-DD`).
   URL; 2 records that were previously blank now carry an approved URL.
 - Maerki Baumann &Co. Ltd. (ADGM Branch): `license_date` corrected in source, 2026-01-01 →
   2026-01-15.
+- Revolut Stored Value Services L.L.C (CBUAE): `license_date` corrected, 2026-07-01 → 2026-06-01.
 
 ### Added
 - 6 new records across 5 new entities: Revolut Stored Value Services L.L.C (CBUAE),
