@@ -1,15 +1,197 @@
 [
   {
-    "entity_name": "Revolut Stored Value Services L.L.C",
+    "entity_name": "Arbeat Group FZE",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Exchange",
+    "licensed_activities": "Exchange Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://arbeat.io/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Arbeat Group FZE",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://arbeat.io/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Remitly Fintech Services – L.L.C- S.P.C",
     "trade_name": null,
     "regulator": "CBUAE",
     "jurisdiction": "United Arab Emirates (federal)",
     "license_type": "Money Services",
-    "licensed_activities": "Stored Value Facility ; Retail Payment Services",
+    "licensed_activities": "Stored Value Facility",
     "status": "Listed in public register",
-    "license_date": "2026-06-01",
-    "official_website": "https://www.revolut.com/en-FI/news/revolut_obtains_approval_for_stored_value_facilities_and_retail_payment_services_licences_from_the_central_bank_of_the_uae/",
-    "last_checked": "2026-07-31",
+    "license_date": "2026-07-01",
+    "official_website": "https://www.remitly.com/ae/en",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "DIMENT VA EXCHANGE SERVICES DMCC (DVA)",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-08-01",
+    "official_website": "https://www.dvaex.io/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "ARP Digital FZCO",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-08-01",
+    "official_website": "https://www.arpdigital.io/en",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Flowdesk Omega FZE",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-08-01",
+    "official_website": "https://www.flowdesk.co/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Onchain Marketplace Ltd (Coinbase)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Custody",
+    "licensed_activities": "Providing Custody",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://www.coinbase.com/tokenize",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Onchain Marketplace Ltd (Coinbase)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Arranging Deals in Investments",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://www.coinbase.com/tokenize",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Arab Global Virtual Assets Services – L.L.C - S.P.C",
+    "trade_name": null,
+    "regulator": "SCA",
+    "jurisdiction": "United Arab Emirates (federal)",
+    "license_type": "Exchange",
+    "licensed_activities": "MTF dedicated to Virtual Assets (VA MTF)",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://arabglobal.ae/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Capital Vault Virtual Services - L.L.C. - S.P.C (Capital.com)",
+    "trade_name": null,
+    "regulator": "SCA",
+    "jurisdiction": "United Arab Emirates (federal)",
+    "license_type": "Custody",
+    "licensed_activities": "Providing Custody for Virtual Assets",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://capital.com/en-int/about-us/our-offices",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Capital Vault Virtual Services - L.L.C. - S.P.C (Capital.com)",
+    "trade_name": null,
+    "regulator": "SCA",
+    "jurisdiction": "United Arab Emirates (federal)",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Dealing in Virtual Assets as an Agent or Matching Principal",
+    "status": "Listed in public register",
+    "license_date": "2026-07-01",
+    "official_website": "https://capital.com/en-int/about-us/our-offices",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Deribit FZE (by Coinbase)",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Broker-Dealer Services",
+    "status": "Listed in public register",
+    "license_date": "2026-08-01",
+    "official_website": "https://www.deribit.com/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Deribit FZE (by Coinbase)",
+    "trade_name": null,
+    "regulator": "VARA",
+    "jurisdiction": "Dubai",
+    "license_type": "Exchange",
+    "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
+    "status": "Listed in public register",
+    "license_date": "2024-11-01",
+    "official_website": "https://www.deribit.com/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Tungsten Custody Solutions Ltd (a Zodia Custody company)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Broker-dealer",
+    "licensed_activities": "Arranging Deals in Investments",
+    "status": "Listed in public register",
+    "license_date": "2024-06-01",
+    "official_website": "https://tungsten.ae/",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Tungsten Custody Solutions Ltd (a Zodia Custody company)",
+    "trade_name": null,
+    "regulator": "FSRA",
+    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
+    "license_type": "Custody",
+    "licensed_activities": "Providing Custody",
+    "status": "Listed in public register",
+    "license_date": "2023-11-01",
+    "official_website": "https://tungsten.ae/",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -22,7 +204,7 @@
     "status": "Listed in public register",
     "license_date": "2026-07-01",
     "official_website": "https://www.flipster.io/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -35,7 +217,20 @@
     "status": "Listed in public register",
     "license_date": "2026-07-01",
     "official_website": "https://bitcoinsuisse.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
+    "notes": null
+  },
+  {
+    "entity_name": "Revolut Stored Value Services L.L.C",
+    "trade_name": null,
+    "regulator": "CBUAE",
+    "jurisdiction": "United Arab Emirates (federal)",
+    "license_type": "Money Services",
+    "licensed_activities": "Stored Value Facility ; Retail Payment Services",
+    "status": "Listed in public register",
+    "license_date": "2026-06-01",
+    "official_website": "https://www.revolut.com/en-FI/news/revolut_obtains_approval_for_stored_value_facilities_and_retail_payment_services_licences_from_the_central_bank_of_the_uae/",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -48,7 +243,7 @@
     "status": "Listed in public register",
     "license_date": "2026-06-01",
     "official_website": "https://tribeinvest.co/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -61,7 +256,7 @@
     "status": "Listed in public register",
     "license_date": "2026-06-01",
     "official_website": "https://yhego.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -74,7 +269,7 @@
     "status": "Listed in public register",
     "license_date": "2026-06-01",
     "official_website": "https://yhego.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -87,7 +282,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-15",
     "official_website": "https://www.archip.ch/en/archip-corporate",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -100,7 +295,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://corporate.jd.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -113,7 +308,7 @@
     "status": "Listed in public register",
     "license_date": "2026-05-01",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -126,7 +321,7 @@
     "status": "Listed in public register",
     "license_date": "2026-05-01",
     "official_website": "https://global.bitexen.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -139,7 +334,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://damanvirtual.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -152,7 +347,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://www.liquiditytech.com/en/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -165,7 +360,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://fce.global/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -178,7 +373,7 @@
     "status": "Listed in public register",
     "license_date": "2026-05-01",
     "official_website": "https://www.coincorner.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -191,7 +386,7 @@
     "status": "Listed in public register",
     "license_date": "2026-05-01",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -204,7 +399,7 @@
     "status": "Listed in public register",
     "license_date": "2024",
     "official_website": "https://aecoin.com/index.php",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -217,20 +412,7 @@
     "status": "Listed in public register",
     "license_date": "2026",
     "official_website": "https://www.ihcuae.com/media-centre/press-releases/ihc-sirius-and-fab-receive-central-bank-approval-to-launch-uae-dirham-backed-stablecoin-ddsc-on-adi-chain?trk=public_post_comment-text",
-    "last_checked": "2026-07-31",
-    "notes": null
-  },
-  {
-    "entity_name": "AEDC Stable Coin-L.L.C (DDSC)",
-    "trade_name": null,
-    "regulator": "CBUAE",
-    "jurisdiction": "United Arab Emirates (federal)",
-    "license_type": "Issuance",
-    "licensed_activities": "Dirham Payment Token Issuance",
-    "status": "Listed in public register",
-    "license_date": "2026",
-    "official_website": "https://www.ihcuae.com/media-centre/press-releases/ihc-sirius-and-fab-receive-central-bank-approval-to-launch-uae-dirham-backed-stablecoin-ddsc-on-adi-chain?trk=public_post_comment-text",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -243,7 +425,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -256,7 +438,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -269,7 +451,7 @@
     "status": "Listed in public register",
     "license_date": "2026-04-01",
     "official_website": "https://www.ambr.io/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -282,7 +464,7 @@
     "status": "Listed in public register",
     "license_date": "2022-02-01",
     "official_website": "https://aminagroup.com/corporates/trading/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -295,7 +477,7 @@
     "status": "Listed in public register",
     "license_date": "2026-02-01",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -308,7 +490,7 @@
     "status": "Listed in public register",
     "license_date": "2026-02-01",
     "official_website": "https://animocabrands.me/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -321,7 +503,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -334,7 +516,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -347,7 +529,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.aquanow.com/uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -360,7 +542,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -373,7 +555,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -386,7 +568,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -399,7 +581,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.aspendigital.co/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -412,7 +594,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.atremo.digital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -425,7 +607,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://www.bankfrick.li/en/bank-frick-receives-licence-and-opens-branch-dubai",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -438,7 +620,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.beamventures.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -451,7 +633,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -464,7 +646,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -477,7 +659,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -490,7 +672,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.binance.com/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -503,7 +685,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -516,7 +698,7 @@
     "status": "Listed in public register",
     "license_date": "2025-09-01",
     "official_website": "https://bitgo.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -529,7 +711,7 @@
     "status": "Listed in public register",
     "license_date": "2024-11-01",
     "official_website": "https://www.bitoasis.net/en/home",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -542,7 +724,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -555,7 +737,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.bitpanda.com/en/uae/homepage",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -568,7 +750,7 @@
     "status": "Listed in public register",
     "license_date": "2025-06-01",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -581,7 +763,7 @@
     "status": "Listed in public register",
     "license_date": "2025-06-01",
     "official_website": "https://burjx.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -594,7 +776,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://www.bybit.com/en/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -607,7 +789,7 @@
     "status": "Listed in public register",
     "license_date": "2025-10-01",
     "official_website": "https://www.ceffu.com/en-AE/uae/custody-fze",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -620,7 +802,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -633,7 +815,7 @@
     "status": "Listed in public register",
     "license_date": "2023-09-01",
     "official_website": "https://changer.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -646,7 +828,7 @@
     "status": "Listed in public register",
     "license_date": "2025-11-01",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -659,7 +841,7 @@
     "status": "Listed in public register",
     "license_date": "2025-11-01",
     "official_website": "https://www.circle.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -672,7 +854,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://www.coinmena.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -685,7 +867,7 @@
     "status": "Listed in public register",
     "license_date": "2022-04-01",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -698,7 +880,7 @@
     "status": "Listed in public register",
     "license_date": "2022-04-01",
     "official_website": "https://copper.co/en-uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -711,7 +893,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -724,20 +906,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.ctrl-alt.co/about-uae",
-    "last_checked": "2026-07-31",
-    "notes": null
-  },
-  {
-    "entity_name": "Deribit FZE",
-    "trade_name": null,
-    "regulator": "VARA",
-    "jurisdiction": "Dubai",
-    "license_type": "Exchange",
-    "licensed_activities": "Exchange Services (including VA Derivatives Trading)",
-    "status": "Listed in public register",
-    "license_date": "2024-11-01",
-    "official_website": "https://www.deribit.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -750,7 +919,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -763,7 +932,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://dkkdigital.io/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -776,7 +945,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -789,7 +958,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -802,7 +971,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -815,7 +984,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.egscapitalltd.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -828,7 +997,7 @@
     "status": "Listed in public register",
     "license_date": "2023-07-01",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -841,7 +1010,7 @@
     "status": "Listed in public register",
     "license_date": "2023-07-01",
     "official_website": "https://emcoin.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -854,7 +1023,7 @@
     "status": "Listed in public register",
     "license_date": "2023-10-01",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -867,7 +1036,7 @@
     "status": "Listed in public register",
     "license_date": "2023-10-01",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -880,7 +1049,7 @@
     "status": "Listed in public register",
     "license_date": "2023-10-01",
     "official_website": "https://www.etoro.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -893,7 +1062,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://www.fasset.com/fasset-fze-documents",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -906,7 +1075,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -919,7 +1088,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -932,7 +1101,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -945,7 +1114,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://crypto.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -958,7 +1127,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -971,7 +1140,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -984,7 +1153,7 @@
     "status": "Listed in public register",
     "license_date": "2022-07-01",
     "official_website": "https://www.further.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -997,7 +1166,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.g3p.io/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1010,7 +1179,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://gatetech.biz/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1023,7 +1192,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://prime.gc.exchange/gcex-mena",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1036,7 +1205,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1049,7 +1218,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1062,7 +1231,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://www.hashgraphvc.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1075,7 +1244,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1088,7 +1257,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://global.hashkey.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1101,7 +1270,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://hextrust.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1114,7 +1283,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://hiddenroad.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1127,7 +1296,7 @@
     "status": "Listed in public register",
     "license_date": "2024-05-01",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1140,7 +1309,7 @@
     "status": "Listed in public register",
     "license_date": "2024-05-01",
     "official_website": "https://www.hextrust.com/legal-privacy/ht-markets-mena-fze-disclaimer",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1153,7 +1322,7 @@
     "status": "Listed in public register",
     "license_date": "2015-06-01",
     "official_website": "https://www.ig.com/ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1166,7 +1335,7 @@
     "status": "Listed in public register",
     "license_date": "2015-12-01",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1179,7 +1348,7 @@
     "status": "Listed in public register",
     "license_date": "2015-12-01",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1192,7 +1361,7 @@
     "status": "Listed in public register",
     "license_date": "2015-12-01",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1205,7 +1374,7 @@
     "status": "Listed in public register",
     "license_date": "2015-12-01",
     "official_website": "https://www.indexcie.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1218,7 +1387,7 @@
     "status": "Listed in public register",
     "license_date": "2022-11-01",
     "official_website": "https://www.investsky.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1231,7 +1400,7 @@
     "status": "Listed in public register",
     "license_date": "2004-09-01",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1244,7 +1413,7 @@
     "status": "Listed in public register",
     "license_date": "2004-09-01",
     "official_website": "https://www.juliusbaer.com/en/about-us/our-locations/dubai/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1257,7 +1426,7 @@
     "status": "Listed in public register",
     "license_date": "2024-10-01",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1270,7 +1439,7 @@
     "status": "Listed in public register",
     "license_date": "2020-03-01",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1283,7 +1452,7 @@
     "status": "Listed in public register",
     "license_date": "2024-03-01",
     "official_website": "https://keywaymarkets.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1296,7 +1465,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1309,7 +1478,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.klickluae.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1322,7 +1491,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1335,7 +1504,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1348,7 +1517,7 @@
     "status": "Listed in public register",
     "license_date": "2024-04-01",
     "official_website": "https://www.klumiventures.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1361,7 +1530,7 @@
     "status": "Listed in public register",
     "license_date": "2023-08-01",
     "official_website": "https://komainu.com/komainu-mea-fze/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1374,7 +1543,7 @@
     "status": "Listed in public register",
     "license_date": "2024-06-01",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1387,7 +1556,7 @@
     "status": "Listed in public register",
     "license_date": "2024-06-01",
     "official_website": "https://www.laserdigital.com/contact-us/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1400,7 +1569,7 @@
     "status": "Listed in public register",
     "license_date": "2023-07-01",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1413,7 +1582,7 @@
     "status": "Listed in public register",
     "license_date": "2023-07-01",
     "official_website": "https://laserdigital.com/laser-digital-middle-east/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1426,7 +1595,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://www.lct.tech/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1439,7 +1608,7 @@
     "status": "Listed in public register",
     "license_date": "2023-07-01",
     "official_website": "https://www.m2.com/en_AE/adgm",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1452,7 +1621,7 @@
     "status": "Listed in public register",
     "license_date": "2025-02-01",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1465,7 +1634,7 @@
     "status": "Listed in public register",
     "license_date": "2025-02-01",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1478,7 +1647,7 @@
     "status": "Listed in public register",
     "license_date": "2025-02-01",
     "official_website": "https://mantra.finance/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1491,7 +1660,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1504,7 +1673,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://mb.io/en-AE",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1517,7 +1686,7 @@
     "status": "Listed in public register",
     "license_date": "2023-05-01",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1530,7 +1699,7 @@
     "status": "Listed in public register",
     "license_date": "2023-05-01",
     "official_website": "https://www.menhircapital.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1543,7 +1712,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.midchains.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1556,7 +1725,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.mkx.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1569,7 +1738,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://fuze.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1582,7 +1751,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1595,7 +1764,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1608,7 +1777,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1621,7 +1790,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1634,7 +1803,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://www.binance.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1647,7 +1816,7 @@
     "status": "Listed in public register",
     "license_date": "2023-11-01",
     "official_website": "https://www.nineblockscapital.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1660,7 +1829,7 @@
     "status": "Listed in public register",
     "license_date": "2026-01-01",
     "official_website": "https://novadigital.xyz/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1673,7 +1842,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1686,7 +1855,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1699,7 +1868,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://ofza.com/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1712,7 +1881,7 @@
     "status": "Listed in public register",
     "license_date": "2024-09-01",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1725,7 +1894,7 @@
     "status": "Listed in public register",
     "license_date": "2024-09-01",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1738,7 +1907,7 @@
     "status": "Listed in public register",
     "license_date": "2024-09-01",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1751,7 +1920,7 @@
     "status": "Listed in public register",
     "license_date": "2024-09-01",
     "official_website": "https://www.okx.com/en-ae",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1764,7 +1933,7 @@
     "status": "Listed in public register",
     "license_date": "2020-07-01",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1777,7 +1946,7 @@
     "status": "Listed in public register",
     "license_date": "2020-07-01",
     "official_website": "https://ousoul.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1790,7 +1959,7 @@
     "status": "Listed in public register",
     "license_date": "2025-04-01",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1803,7 +1972,7 @@
     "status": "Listed in public register",
     "license_date": "2024-10-01",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1816,7 +1985,7 @@
     "status": "Listed in public register",
     "license_date": "2024-10-01",
     "official_website": "https://www.paxos.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1829,7 +1998,7 @@
     "status": "Listed in public register",
     "license_date": "2020-03-01",
     "official_website": "https://pepperstone.com/en-ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1842,7 +2011,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1855,7 +2024,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1868,7 +2037,7 @@
     "status": "Listed in public register",
     "license_date": "2025-12-01",
     "official_website": "https://www.primrose.capital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1881,7 +2050,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://mint.prypco.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1894,7 +2063,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.qcpgroup.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1907,7 +2076,7 @@
     "status": "Listed in public register",
     "license_date": "2023-08-01",
     "official_website": "https://www.qube-rt.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1920,7 +2089,7 @@
     "status": "Listed in public register",
     "license_date": "2023-08-01",
     "official_website": "https://www.qube-rt.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1933,7 +2102,7 @@
     "status": "Listed in public register",
     "license_date": "2023-08-01",
     "official_website": "https://www.qube-rt.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1946,7 +2115,7 @@
     "status": "Listed in public register",
     "license_date": "2022-12-01",
     "official_website": "https://www.rain.com/en-ae/landing/rain-business",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1959,7 +2128,7 @@
     "status": "Listed in public register",
     "license_date": "2022-12-01",
     "official_website": "https://www.rain.com/en-ae/landing/rain-business",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1972,7 +2141,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://ripple.com/legal/compliance/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1985,7 +2154,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://ripple.com/legal/compliance/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -1998,7 +2167,7 @@
     "status": "Listed in public register",
     "license_date": "2026-03-01",
     "official_website": "https://www.riv-technologies.com/fze/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2011,7 +2180,7 @@
     "status": "Listed in public register",
     "license_date": "2023-09-01",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2024,7 +2193,7 @@
     "status": "Listed in public register",
     "license_date": "2023-09-01",
     "official_website": "https://www.scintillanetwork.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2036,8 +2205,8 @@
     "licensed_activities": "Broker-Dealer Services",
     "status": "Listed in public register",
     "license_date": "2025-10-01",
-    "official_website": "http://selinicapital.ae/",
-    "last_checked": "2026-07-31",
+    "official_website": "https://selinicapital.ae/",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2050,7 +2219,7 @@
     "status": "Listed in public register",
     "license_date": "2004-09-01",
     "official_website": "https://www.sc.com/ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2063,7 +2232,7 @@
     "status": "Listed in public register",
     "license_date": "2023-03-01",
     "official_website": "https://www.sygnum.com/uae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2076,7 +2245,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2089,7 +2258,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2102,7 +2271,7 @@
     "status": "Listed in public register",
     "license_date": "2025-03-01",
     "official_website": "https://tokenbaycapital.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2115,7 +2284,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2128,7 +2297,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://tokinvest.capital/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2141,7 +2310,7 @@
     "status": "Listed in public register",
     "license_date": "2023-10-01",
     "official_website": "https://www.backpack.exchange/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2154,7 +2323,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2167,33 +2336,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.tritonliquid.com/",
-    "last_checked": "2026-07-31",
-    "notes": null
-  },
-  {
-    "entity_name": "Tungsten Custody Solutions Ltd",
-    "trade_name": null,
-    "regulator": "FSRA",
-    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
-    "license_type": "Broker-dealer",
-    "licensed_activities": "Arranging Deals in Investments",
-    "status": "Listed in public register",
-    "license_date": "2024-06-01",
-    "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-07-31",
-    "notes": null
-  },
-  {
-    "entity_name": "Tungsten Custody Solutions Ltd",
-    "trade_name": null,
-    "regulator": "FSRA",
-    "jurisdiction": "Abu Dhabi Global Market (ADGM)",
-    "license_type": "Custody",
-    "licensed_activities": "Providing Custody",
-    "status": "Listed in public register",
-    "license_date": "2023-11-01",
-    "official_website": "https://tungsten.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2206,7 +2349,7 @@
     "status": "Listed in public register",
     "license_date": "2025-09-01",
     "official_website": "https://www.universal.ae/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2219,7 +2362,7 @@
     "status": "Listed in public register",
     "license_date": "2024-07-01",
     "official_website": "https://ae.roma.global/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2232,7 +2375,7 @@
     "status": "Listed in public register",
     "license_date": "2013-12-01",
     "official_website": "https://www.vycapital.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2245,7 +2388,7 @@
     "status": "Listed in public register",
     "license_date": "2023-12-01",
     "official_website": "https://www.linkedin.com/company/foundation-aya/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2258,7 +2401,7 @@
     "status": "Listed in public register",
     "license_date": "2026-03-01",
     "official_website": "https://www.relm.co/permissions",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2271,7 +2414,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2284,7 +2427,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2297,7 +2440,7 @@
     "status": "Listed in public register",
     "license_date": "2025-05-01",
     "official_website": "https://www.xbto.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2310,7 +2453,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2323,7 +2466,7 @@
     "status": "Listed in public register",
     "license_date": "2025",
     "official_website": "https://www.zand.ae/en",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   },
   {
@@ -2336,7 +2479,7 @@
     "status": "Listed in public register",
     "license_date": "2024-12-01",
     "official_website": "https://zodiamarkets.com/",
-    "last_checked": "2026-07-31",
+    "last_checked": "2026-08-31",
     "notes": null
   }
 ]

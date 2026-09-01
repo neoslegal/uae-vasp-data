@@ -28,11 +28,11 @@ The dataset is compiled from a working spreadsheet based on public regulator sou
 carries a **single approved URL** in `official_website`, taken verbatim from that source. Users
 should verify current status with the relevant regulator.
 
-Specific notes on this initial release:
+Specific notes on this release:
 
 - **`status`** is a *derived dataset status* (`"Listed in public register"`). It indicates that
   the entity appeared in the source workbook's licensed-entities list as last updated on
-  2026-06-04. It is **not** a per-entity status copied from a regulator and does **not** assert
+  2026-08-31. It is **not** a per-entity status copied from a regulator and does **not** assert
   that an entity is currently active, withdrawn, or otherwise. No status such as "Active",
   "Inactive", "Revoked", or "Withdrawn" has been inferred.
 - **`license_date`** uses `YYYY-MM-DD` where an exact date is available, and a year-only `YYYY`
@@ -44,11 +44,12 @@ Specific notes on this initial release:
   field is no longer maintained.
 - **`notes`** contains only substantive public context. It is left blank rather than used to record
   working annotations or data-formatting explanations.
-- **`last_checked`** (`2026-06-04`) is **workbook-level**, derived from the source workbook's
+- **`last_checked`** (`2026-08-31`) is **workbook-level**, derived from the source workbook's
   "last updated" date — not a per-row verification date — unless and until per-row verification
   dates are added.
-- Entries that were struck through in the source workbook (with no legend explaining the styling)
-  are **excluded** from this dataset pending verification, rather than published as active records.
+- Entries that were struck through in the source workbook (with no legend explaining the styling),
+  or marked withdrawn in the source, are **excluded** from this dataset pending verification,
+  rather than published as active records.
 
 ## Disclaimer
 
