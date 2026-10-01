@@ -4,11 +4,11 @@ This directory contains the UAE VASP licensing dataset. Each regulator has a
 dedicated CSV file, and a combined JSON file aggregates all records.
 
 > **Provenance.** Records were imported from a working spreadsheet compiled from
-> public regulator sources, last updated **2026-08-31**. Please note the following field-level
+> public regulator sources, last updated **2026-09-30**. Please note the following field-level
 > conventions for this release:
 >
 > - **`status`** is a derived dataset status (`"Listed in public register"`) meaning the entity
->   appeared in the source workbook's licensed-entities list as of 2026-08-31. It is not a
+>   appeared in the source workbook's licensed-entities list as of 2026-09-30. It is not a
 >   per-entity regulator status and asserts nothing about current activity. No status was inferred.
 > - **`license_date`** is `YYYY-MM-DD` where an exact date is available, or a year-only `YYYY` where
 >   only the year is known (valid; month/day never invented).
@@ -17,7 +17,7 @@ dedicated CSV file, and a combined JSON file aggregates all records.
 >   another approved source. No URL is inferred, searched for, or generated.
 > - **`notes`** holds only substantive public context, otherwise blank (no working annotations, no
 >   formatting explanations).
-> - **`last_checked`** (`2026-08-31`) is **workbook-level**, not a per-row verification date,
+> - **`last_checked`** (`2026-09-30`) is **workbook-level**, not a per-row verification date,
 >   unless and until per-row verification dates are added.
 > - Users should verify current licensing status directly with the relevant regulator.
 > - Source rows that were struck through (with no legend explaining the styling), or marked
