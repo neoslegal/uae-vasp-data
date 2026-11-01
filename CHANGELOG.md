@@ -5,6 +5,19 @@ All notable changes to this dataset are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Dates use ISO 8601 (`YYYY-MM-DD`).
 
+## [2026-11-01]
+
+### Changed
+- Updated the UAE VASP dataset from the latest source workbook (source last updated 2026-10-30).
+  Total public records: 200 (up from 190). `last_checked` updated to 2026-10-30.
+  Regulator totals: VARA 92, FSRA 72, DFSA 23, CBUAE 7, SCA 6.
+
+### Added
+- 10 new records: Prypco FZE (VARA, Category 1 VA Issuance), Standard Chartered Bank (VARA,
+  Broker-Dealer Services), Bybit Fintech FZE (Bybit) (VARA, Exchange Services), Payward FZCO
+  (VARA, 2 records), Rain MENA FZE (VARA, 2 records), SHIFT INVESTMENTS LIMITED (FSRA, 2 records),
+  and Arab Bank (Switzerland) ME Limited (FSRA).
+
 ## [2026-07-31]
 
 ### Changed
